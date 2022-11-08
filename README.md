@@ -31,7 +31,10 @@ Build the application for production:
 
 ```bash
 npm run build
-```
+```  
+
+## 動作確認(nuxt => express)  
+npm run dev後、show message from backendボタンクリックすると、devツールのコンソール上にメッセージを表示できる
 
 Locally preview production build:
 
