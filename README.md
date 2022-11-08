@@ -36,10 +36,5 @@ npm run build
 ## 動作確認(nuxt => express)  
 npm run dev後、show message from backendボタンクリックすると、devツールのコンソール上にメッセージを表示できる
 
-Locally preview production build:
-
-```bash
-npm run preview
-```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
