@@ -34,7 +34,7 @@ npm run build
 ```  
 
 ## 動作確認(nuxt => express)  
-npm run dev後、show message from backendボタンクリックすると、devツールのコンソール上にメッセージを表示できる
+npm run dev後、show message from backendボタンクリックすると、devツールのコンソール上にメッセージを表示できる。また、ターミナルにログ(test)が出力されていることが確認できる。
 
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
